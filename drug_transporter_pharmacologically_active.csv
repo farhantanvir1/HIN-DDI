@@ -1,0 +1,35 @@
+ID,Name,Gene Name,GenBank Protein ID,GenBank Gene ID,UniProt ID,Uniprot Title,PDB ID,GeneCard ID,GenAtlas ID,HGNC ID,Species,Drug IDs
+85,Ferritin light chain,FTL,182514,M11147,P02792,FRIL_HUMAN,2FFX; 2FG4; 2FG8; 3KXU; 4V6B,,FTL,HGNC:3999,Humans,DB06215; DB06784
+222,Large neutral amino acids transporter small subunit 1,SLC7A5,3639058,AF077866,Q01650,LAT1_HUMAN,"",,SLC7A5,HGNC:11063,Humans,DB00230
+249,Sodium- and chloride-dependent GABA transporter 1,SLC6A1,31658,X54673,P30531,SC6A1_HUMAN,"",,SLC6A1,HGNC:11042,Humans,DB00349
+399,Ferritin heavy chain,FTH1,28435,X00318,P02794,FRIH_HUMAN,1FHA; 2CEI; 2CHI; 2CIH; 2CLU; 2CN6; 2CN7; 2FHA; 2IU2; 2Z6M; 3AJO; 3AJP; 3AJQ; 3ERZ; 3ES3; 4DYX; 4DYY; 4DYZ; 4DZ0; 4OYN; 4Y08; 4YKH; 4ZJK; 5CMQ; 5CMR,,FTH1,HGNC:3976,Humans,DB06215; DB06784
+486,Sodium-dependent noradrenaline transporter,SLC6A2,189258,M65105,P23975,SC6A2_HUMAN,"",,SLC6A2,HGNC:11048,Humans,DB06704
+502,Solute carrier family 12 member 1,SLC12A1,1373425,U58130,Q13621,S12A1_HUMAN,"",,SLC12A1,HGNC:10910,Humans,DB13620
+510,Serotransferrin,TF,339453,M12530,P02787,TRFE_HUMAN,1A8E; 1A8F; 1B3E; 1BP5; 1BTJ; 1D3K; 1D4N; 1DTG; 1FQE; 1FQF; 1JQF; 1N7W; 1N7X; 1N84; 1OQG; 1OQH; 1RYO; 1SUV; 2HAU; 2HAV; 2O7U; 2O84; 3FGS; 3QYT; 3S9L; 3S9M; 3S9N; 3SKP; 3V83; 3V89; 3V8X; 3VE1; 4H0W; 4X1B; 4X1D,,TF,HGNC:11740,Humans,DB06215
+732,Sodium/potassium-transporting ATPase subunit alpha-1,ATP1A1,219942,D00099,P05023,AT1A1_HUMAN,"",,ATP1A1,HGNC:799,Humans,DB13620
+749,Sodium-dependent serotonin transporter,SLC6A4,36433,X70697,P31645,SC6A4_HUMAN,"",,SLC6A4,HGNC:11050,Humans,DB09194
+893,"Solute carrier family 2, facilitated glucose transporter member 4",SLC2A4,307076,M20747,P14672,GTR4_HUMAN,"",,SLC2A4,HGNC:11009,Humans,DB09502
+1004,Solute carrier organic anion transporter family member 1B1,SLCO1B1,5051630,AF060500,Q9Y6L6,SO1B1_HUMAN,"",,SLCO1B1,HGNC:10959,Humans,DB09137
+1032,Multidrug resistance protein 1,ABCB1,307180,M14758,P08183,MDR1_HUMAN,"",,ABCB1,HGNC:40,Humans,DB00341; DB06191; DB06603; DB06636; DB09065; DB14962
+1045,"Solute carrier family 2, facilitated glucose transporter member 2",SLC2A2,307125,J03810,P11168,GTR2_HUMAN,"",,SLC2A2,HGNC:11006,Humans,DB09502
+1057,"Solute carrier family 2, facilitated glucose transporter member 1",SLC2A1,183303,K03195,P11166,GTR1_HUMAN,1SUK; 4PYP,,SLC2A1,HGNC:11005,Humans,DB09502
+1067,ATP-binding cassette sub-family G member 2,ABCG2,4185796,AF103796,Q9UNQ0,ABCG2_HUMAN,"",,ABCG2,HGNC:74,Humans,DB08931; DB09065
+1069,Canalicular multispecific organic anion transporter 1,ABCC2,1764162,U63970,Q92887,MRP2_HUMAN,"",,ABCC2,HGNC:53,Humans,DB09374
+3659,Solute carrier organic anion transporter family member 1B3,SLCO1B3,9187497,AJ251506,Q9NPD5,SO1B3_HUMAN,"",,,HGNC:10961,Humans,DB09137; DB13139
+4707,"Solute carrier family 2, facilitated glucose transporter member 3",SLC2A3,,,P11169,GTR3_HUMAN,4ZW9; 4ZWB; 4ZWC; 5C65,,,HGNC:11007,Humans,DB09502
+4733,Sodium- and chloride-dependent GABA transporter 3,SLC6A11,,,P48066,S6A11_HUMAN,"",,,HGNC:11044,Humans,DB00349
+4783,"Solute carrier family 2, facilitated glucose transporter member 9",SLC2A9,,,Q9NRM0,GTR9_HUMAN,"",,,HGNC:13446,Humans,DB09502
+4796,Transferrin receptor protein 1,TFRC,,,P02786,TFR1_HUMAN,1CX8; 1DE4; 1SUV; 2NSU; 3KAS; 3S9L; 3S9M; 3S9N,,,HGNC:11763,Humans,DB05260; DB06784
+4797,Transferrin receptor protein 2,TFR2,,,Q9UP52,TFR2_HUMAN,,,,HGNC:11762,Humans,DB05260; DB06784
+5141,"Solute carrier family 2, facilitated glucose transporter member 5",SLC2A5,,,P22732,GTR5_HUMAN,1YG1,,,HGNC:11010,Humans,DB09502
+5142,"Solute carrier family 2, facilitated glucose transporter member 6",SLC2A6,,,Q9UGQ3,GTR6_HUMAN,"",,,HGNC:11011,Humans,DB09502
+5143,"Solute carrier family 2, facilitated glucose transporter member 7",SLC2A7,,,Q6PXP3,GTR7_HUMAN,1YG7,,,HGNC:13445,Humans,DB09502
+5144,"Solute carrier family 2, facilitated glucose transporter member 8",SLC2A8,,,Q9NY64,GTR8_HUMAN,"",,,HGNC:13812,Humans,DB09502
+5145,"Solute carrier family 2, facilitated glucose transporter member 10",SLC2A10,,,O95528,GTR10_HUMAN,"",,,HGNC:13444,Humans,DB09502
+5146,"Solute carrier family 2, facilitated glucose transporter member 11",SLC2A11,,,Q9BYW1,GTR11_HUMAN,"",,,HGNC:14239,Humans,DB09502
+5147,"Solute carrier family 2, facilitated glucose transporter member 12",SLC2A12,,,Q8TD20,GTR12_HUMAN,"",,,HGNC:18067,Humans,DB09502
+7255,Lactoferrin,,,,Q19KS1,Q19KS1_BOVIN,"",,,,Bos taurus,DB06784
+9309,Sodium/iodide cotransporter,SLC5A5,,,Q92911,SC5A5_HUMAN,"",,,HGNC:11040,Humans,DB05382
+349,Potassium-transporting ATPase alpha chain 1,ATP4A,561634,J05451,P20648,ATP4A_HUMAN,"",,ATP4A,HGNC:819,Humans,DB13620
+619,Potassium-transporting ATPase subunit beta,ATP4B,184105,M75110,P51164,ATP4B_HUMAN,"",,ATP4B,HGNC:820,Humans,DB13620
+10155,Pendrin,SLC26A4,,,O43511,S26A4_HUMAN,,,,HGNC:8818,Humans,DB05382
