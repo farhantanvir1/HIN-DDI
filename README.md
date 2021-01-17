@@ -7,3 +7,7 @@ Data are extracted from uploaded files for representing drug-based interactions.
 "DEB2_converted.xlsx" contains drugs' association with indications and side effects.
 
 "drug_pathway_combined.csv" consists of drugs' relation with pathways and pathway subjects.
+
+"generate_meta_path.py" comprises of code for computing meta-path topological features
+
+"Obtaining_results.py" contains code for getting results of different ML methods
