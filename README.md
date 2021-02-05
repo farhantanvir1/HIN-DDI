@@ -1,4 +1,4 @@
-# HINPDDI
+# HIN-DDI
 
 Data are extracted from uploaded files for representing drug-based interactions.
 
