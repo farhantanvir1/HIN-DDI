@@ -2,11 +2,11 @@
 
 Data are extracted from uploaded files for representing drug-based interactions.
 
-"drug_target_pharmacologically_active", "drug_enzyme_pharmacologically_active", "drug_carrier_pharmacologically_active" and "drug_transporter_pharmacologically_active" have been used to retrieve interaction data among drugs and target proteins, enzymes, carriers and transporters respectively. All of these files contain species information as well.
+"full database.xml" is parsed to obtain required drug-related information. Parsed data can be found in "full database.csv"
 
 "DEB2_converted.xlsx" contains drugs' association with indications and side effects.
 
-"drug_pathway_combined.csv" consists of drugs' relation with pathways and pathway subjects.
+"drug_data_drugbank_interacting_drugs_pathway SMILES_indication_atc code-2.csv" contains all data used for meta-path generation and experiments.
 
 "generate_meta_path.py" comprises of code for computing meta-path topological features
 
